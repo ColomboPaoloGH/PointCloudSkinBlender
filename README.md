@@ -19,7 +19,7 @@ The script is designed to create a "skin" over a point cloud by generating mesh 
 
 ## Installation
 1. Download the script file (`t26_PointCloudSkinner1_Umbrella.py`).
-2. Go to Edit-->Preferences-->Add-ons.
+2. Go to `Edit>Preferences>Add-ons`.
 3. On the top right corner of the window click on the down button.
 4. Click on Install from Disk and select the python file.
 5. Enable the script in the Blender Preferences window.

@@ -10,7 +10,7 @@ Go to the repository page and click **Fork** in the top-right corner.
 ### Clone your fork
 Open a terminal and run the following commands:
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/ColomboPaoloGH/PointCloudSkinnerBlender
 cd repository-name
 ```
 

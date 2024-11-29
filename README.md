@@ -17,18 +17,13 @@ The script is designed to create a "skin" over a point cloud by generating mesh 
 - Improved error handling and debugging capabilities.
 - Enhanced performance and modularity for better usability.
 
-## How to Use
-_You can describe here how to access and use the script within Blender. For example:_
-
-1. Add the script to Blender by navigating to `Scripting > New Script`.
-2. Run the script to register the "Point Cloud Skinner" tool.
-3. Access the tool from `Properties > Scene > Point Cloud Skinner`.
-
 ## Installation
 1. Download the script file (`t26_PointCloudSkinner1_Umbrella.py`).
-2. Open Blender, go to the `Scripting` workspace, and load the script.
-3. Run the script by pressing `Run Script`.
-4. The tool will now be available in the **Scene Properties** tab.
+2. Go to Edit-->Preferences-->Add-ons.
+3. On the top right corner of the window click on the down button.
+4. Click on Install from Disk and select the python file.
+5. Enable the script in the Blender Preferences window.
+6. You will now find the add-on in the Scene properties tab under "Point Cloud Skinner"
 
 ## Interface
 The tool appears under the `Properties > Scene` panel as **Point Cloud Skinner**. The interface provides the following options:

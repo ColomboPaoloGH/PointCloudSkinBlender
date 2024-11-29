@@ -34,6 +34,10 @@ The tool appears under the `Properties > Scene` panel as **Point Cloud Skinner**
 - **Skin Only Selected Vertices**: Enable to process only selected vertices.
 - **Ignore Errors**: Toggle to allow processing to continue despite errors.
 
+## Interface Preview
+Below is a preview of the "Point Cloud Skinner" interface as it appears in Blender:
+![Point Cloud Skinner Interface](images/interface.png)
+
 ## Author Credits
 - **Original Author**: Hans.P.G.
 - **Adaptation and Updates**: Paolo Colombo

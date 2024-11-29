@@ -43,4 +43,3 @@ Go to the original repository and click **New Pull Request**. Fill in the descri
 - Be respectful in your interactions with others.
 
 Thank you for your contribution!
-```
